@@ -8,3 +8,4 @@ Dotfiles that i use in my Macbook with archlinux using hyprland (work in progres
 - Dunst
 - Waybar
 - Hyfetch
+- swww
