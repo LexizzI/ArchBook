@@ -11,5 +11,5 @@
     "args": null,
     "distro": null,
     "pride_month_disable": false,
-    "custom_ascii_path": "/home/"user"/.config/ascii"
+    "custom_ascii_path": "~/.config/ascii"
 }
